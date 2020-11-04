@@ -25,8 +25,7 @@
     <show-object-properties value="true" />
     <loaded-nodes>
       <connection connection-id="6817d3ff-bc84-4b6a-9fa1-24c93f9cdf46">
-        <schema name="homework" object-types="table, view" />
-        <schema name="testdb" object-types="function, column, procedure, index, dataset trigger, table, view, constraint" />
+        <schema name="testdb" object-types="table, column, procedure, dataset trigger, function, index, view, constraint" />
       </connection>
     </loaded-nodes>
   </component>
